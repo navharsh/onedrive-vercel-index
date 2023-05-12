@@ -45,7 +45,7 @@ module.exports = {
   protectedRoutes: ['/Protected'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:contact@navharsh.me',
+  email: 'mailto:hello@navharsh.me',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -54,6 +54,10 @@ module.exports = {
     {
       name: 'GitHub',
       link: 'https://github.com/navharsh/onedrive-vercel-index',
+    },
+    {
+      name: 'Telegram',
+      link: 'https://t.me/navharsh',
     },
   ],
 
